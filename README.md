@@ -1,6 +1,6 @@
 # SENTRY-FX
 
-### Source-Grounded Timeline Reasoning and Forensic Extraction
+### Source-Groußnded Timeline Reasoning and Forensic Extraction
 
 ### Input
 
